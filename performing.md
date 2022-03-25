@@ -16,3 +16,12 @@
     2. Referential equality (When we pass that information to a child component).
 
     Obs: Referential equality is when you want to compare whether an object is the same, and not exactly whether its value is the same.
+
+
+
+<!-- async function showFormattedDate() {
+    const { format } = await import('date-fns')
+
+    format()
+}
+     -->
